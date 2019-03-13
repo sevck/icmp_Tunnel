@@ -12,3 +12,10 @@ https://medium.com/bugbountywriteup/ping-power-icmp-tunnel-31e2abb2aaea
 e.g.
 
 ![image](https://github.com/sevck/icmp_Tunnel/blob/master/show.png)
+
+server:
+
+        python c2.py 
+
+agent:
+        python agent.py
